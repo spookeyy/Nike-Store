@@ -1,0 +1,61 @@
+{
+  "product": [
+    {
+      "id": 0,
+      "image": "images/shirt1.png",
+      "title": "Best Outfit-casual",
+      "price": 1200
+    },
+    {
+      "id": 1,
+      "image": "images/shirt1.png",
+      "title": "Best Outfit-casual",
+      "price": 1250
+    },
+    {
+      "id": 2,
+      "image": "images/shirt1.png",
+      "title": "Best Outfit-casual",
+      "price": 1380
+    },
+    {
+      "id": 3,
+      "image": "images/shirt1.png",
+      "title": "Best Outfit-casual",
+      "price": 1150
+    },
+    {
+      "id": 4,
+      "image": "images/shirt1.png",
+      "title": "Best Outfit-casual",
+      "price": 1450
+    },
+    {
+      "id": 5,
+      "image": "images/shirt1.png",
+      "title": "Best Outfit-casual",
+      "price": 1050
+    },
+    {
+      "id": 6,
+      "image": "images/shirt1.png",
+      "title": "Best Outfit-casual",
+      "price": 900
+    },
+    {
+      "id": 7,
+      "image": "images/shirt1.png",
+      "title": "Best Outfit-casual",
+      "price": 800
+    }
+  ],
+  "_": {
+    "endpoints": {
+      "addtocart": {
+        "path": "/addtocart",
+        "method": "POST",
+        "handler": "./server.js"
+      }
+    }
+  }
+}
