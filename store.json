@@ -8,44 +8,44 @@
     },
     {
       "id": 1,
-      "image": "images/shirt1.png",
-      "title": "Best Outfit-casual",
+      "image": "images/winter-jacket.jpg",
+      "title": "Best Outfit-Winter-Jacket",
       "price": 1250
     },
     {
       "id": 2,
-      "image": "images/shirt1.png",
-      "title": "Best Outfit-casual",
+      "image": "images/grey-tech-fleece-joggers.jpeg",
+      "title": "Grey Tech Fleece Joggers",
       "price": 1380
     },
     {
       "id": 3,
-      "image": "images/shirt1.png",
-      "title": "Best Outfit-casual",
+      "image": "images/black2-tech-fleece-joggers.jpeg",
+      "title": "black Tech Fleece Joggers",
       "price": 1150
     },
     {
       "id": 4,
-      "image": "images/shirt1.png",
-      "title": "Best Outfit-casual",
+      "image": "images/black-dri-fit-cotton.jpeg",
+      "title": "Black Dri Fit Cotton",
       "price": 1450
     },
     {
       "id": 5,
-      "image": "images/shirt1.png",
-      "title": "Best Outfit-casual",
+      "image": "images/custom-airforce-1-low.jpeg",
+      "title": "Custom airforce 1 Low",
       "price": 1050
     },
     {
       "id": 6,
-      "image": "images/shirt1.png",
-      "title": "Best Outfit-casual",
+      "image": "images/air-jordan-1.jpeg",
+      "title": "Air Jordan 1",
       "price": 900
     },
     {
       "id": 7,
-      "image": "images/shirt1.png",
-      "title": "Best Outfit-casual",
+      "image": "images/black-air-force-1.webp",
+      "title": "Black Air Force 1",
       "price": 800
     }
   ],
@@ -59,3 +59,7 @@
     }
   }
 }
+
+git add .
+git commit -m "initial commit"
+git push origin main
