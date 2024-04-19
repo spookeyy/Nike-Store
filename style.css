@@ -185,3 +185,28 @@ button:hover {
   cursor: pointer;
   color: #333;
 }
+
+.mb-3{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 2px;
+}
+.mb-3 input{
+  border-radius: 5px;
+}
+
+#close{
+  padding: 5px;
+}
+
+.modal-header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+#btn2{
+  margin-top: 10px;
+}
